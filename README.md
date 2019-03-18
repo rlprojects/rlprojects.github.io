@@ -1,4 +1,4 @@
 # rlprojects.github.io
-Hydrogen Web Page
+Web Page
 
-This is for a school project.
+This is for a school assignments.
